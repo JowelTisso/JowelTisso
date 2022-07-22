@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m also learning **MERN stack**
 
 - 👯 I’m looking to collaborate on **React Game Engine**
 
-- 📝 I regularly write articles on [https://joweltisso.hashnode.dev/](https://joweltisso.hashnode.dev/)
+- 📝 I write articles on [https://joweltisso.hashnode.dev/](https://joweltisso.hashnode.dev/)
 
 - 💬 Ask me about **React, Javascript, React Native**
 
